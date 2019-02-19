@@ -21,6 +21,10 @@ function whileLoop(number){
   return 'done';
 }
 
+
+
 function doWhileLoop(number){
-  
+  do {
+  console.log("doo-bee-doo-bee-doo");
+} while (incrementVariable() < 5);
 }
